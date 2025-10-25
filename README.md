@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
 <h3 align="center">A passionate student and aspiring developer from Germany</h3>
 
-- 🔭 I’m currently working on **Stockmarket Analysis/Predicter**
-
 - 🌱 I’m currently learning **Python, Machine Learning, AI**
 
 - 📄 I’m currently finishing my **Bachelor's Degree**
