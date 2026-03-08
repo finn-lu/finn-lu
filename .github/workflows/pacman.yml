@@ -1,0 +1,15 @@
+name: generate pacman
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: finn-lu
