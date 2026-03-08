@@ -10,4 +10,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=finn-lu&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=finn-lu&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##My Contributions
+
+![pacman contribution graph](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg)
